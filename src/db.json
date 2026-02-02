@@ -1,0 +1,29 @@
+{
+"users": [
+    {
+    "id": "1",
+    "name": "Sarah Jenkins",
+    "email": "admin@gmail.com",
+    "password": "admin123",
+    "role": "admin"
+    },
+    {
+    "id": "2",
+    "name": "Alex Morgan",
+    "email": "user@gmail.com",
+    "password": "user123",
+    "role": "user"
+    }
+],
+"tasks": [
+    {
+    "id": "1",
+    "nameTask": "",
+    "assignee": "",
+    "category": "",
+    "priority": "",
+    "status": "",
+    "date": ""
+    }
+]
+}

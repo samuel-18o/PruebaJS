@@ -1,0 +1,24 @@
+{
+  "name": "pruebajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server --watch ./src/db.json --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuel-18o/PruebaJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuel-18o/PruebaJS/issues"
+  },
+  "homepage": "https://github.com/samuel-18o/PruebaJS#readme",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.5"
+  }
+}
