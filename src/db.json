@@ -2,7 +2,7 @@
 "users": [
     {
     "id": "1",
-    "name": "Sarah Jenkins",
+    "nameUser": "Sarah Jenkins",
     "email": "admin@gmail.com",
     "password": "admin123",
     "role": "admin"
@@ -18,12 +18,11 @@
 "tasks": [
     {
     "id": "1",
-    "nameTask": "",
-    "assignee": "",
-    "category": "",
-    "priority": "",
-    "status": "",
-    "date": ""
+    "nameTask": "Update Documentation",
+    "nameUser": "Sarah Lin",
+    "category": "Computer Science",
+    "priority": "Medium",
+    "status": "Pending"
     }
 ]
 }
